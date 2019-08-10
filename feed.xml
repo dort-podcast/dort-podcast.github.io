@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:617588943/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:617588943/sounds.rss?before=602499795" rel="next" type="application/rss+xml"/>
+        <title>Android Podcast</title>
+        <link>http://soundcloud.com/dortpodcast</link>
+        <pubDate>Mon, 15 Jul 2019 14:46:54 +0000</pubDate>
+        <lastBuildDate>Mon, 15 Jul 2019 14:46:54 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>tr</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Another Android Podcast
+
+https://twitter.com/PodcastDort
+https://medium.com/d%C3%B6rt-podcast</description>
+        <itunes:subtitle>Another Android Podcast
+
+https://twitter.com/Podc…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>dortpodcast</itunes:name>
+          <itunes:email>dortpodcast@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Dört Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000609486429-rmv4li-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000609486429-rmv4li-original.jpg</url>
+          <title>dortpodcast</title>
+          <link>http://soundcloud.com/dortpodcast</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/651428906</guid>
+      <title>#7 Açık Kaynak ve Linç Kültürü</title>
+      <pubDate>Mon, 15 Jul 2019 14:46:54 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/7-acik-kaynak-ve-linc-kulturu</link>
+      <itunes:duration>00:45:49</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Açık Kaynak ve Linç Kültürü</itunes:summary>
+      <itunes:subtitle>Açık Kaynak ve Linç Kültürü</itunes:subtitle>
+      <description>Açık Kaynak ve Linç Kültürü</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/651428906-dortpodcast-7-acik-kaynak-ve-linc-kulturu.m4a" length="66536131"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000566810552-0jkirg-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/619968297</guid>
+      <title>#6 Android Pattern &amp; Antipattern : LiveData and ViewModels</title>
+      <pubDate>Mon, 13 May 2019 15:46:23 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/6-android-pattern-antipattern-livedata-and-viewmodels</link>
+      <itunes:duration>00:19:31</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Android Pattern &amp; Antipattern serisinin ilk kaydını LiveData ve ViewModels üzerine yaptık. Keyifli dinlemelerö geri bildirimlerinizi bekliyoruz. :)
+
+“ViewModels and LiveData: Patterns + AntiPatterns” by Jose Alcérreca https://link.medium.com/sykC5L3YEW</itunes:summary>
+      <itunes:subtitle>Android Pattern &amp; Antipattern serisinin ilk kaydı…</itunes:subtitle>
+      <description>Android Pattern &amp; Antipattern serisinin ilk kaydını LiveData ve ViewModels üzerine yaptık. Keyifli dinlemelerö geri bildirimlerinizi bekliyoruz. :)
+
+“ViewModels and LiveData: Patterns + AntiPatterns” by Jose Alcérreca https://link.medium.com/sykC5L3YEW</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/619968297-dortpodcast-6-android-pattern-antipattern-livedata-and-viewmodels.mp3" length="28110389"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000534120534-lij778-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/616726704</guid>
+      <title>#5 Android UI : XML vs Code</title>
+      <pubDate>Tue, 07 May 2019 05:57:55 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/android-ui-vs-code</link>
+      <itunes:duration>00:45:15</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Android UI : XML vs Code</itunes:summary>
+      <itunes:subtitle>Android UI : XML vs Code</itunes:subtitle>
+      <description>Android UI : XML vs Code</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/616726704-dortpodcast-android-ui-vs-code.m4a" length="65709648"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000530857722-sd4m0k-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/612581679</guid>
+      <title>#4 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 2</title>
+      <pubDate>Sun, 28 Apr 2019 20:06:14 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/4-android-gelistiriciler-icin-mulakat-surecleri-bolum-2</link>
+      <itunes:duration>01:03:44</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>#4 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 2</itunes:summary>
+      <itunes:subtitle>#4 Android Geliştiriciler için Mülakat Süreçleri …</itunes:subtitle>
+      <description>#4 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 2</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/612581679-dortpodcast-4-android-gelistiriciler-icin-mulakat-surecleri-bolum-2.m4a" length="92516045"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000527191554-nopl6p-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/609855228</guid>
+      <title>#3 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 1</title>
+      <pubDate>Mon, 22 Apr 2019 20:22:14 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/3-mulakat-surecleri</link>
+      <itunes:duration>01:03:44</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>#3 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 1 by Dört Podcast</itunes:summary>
+      <itunes:subtitle>#3 Android Geliştiriciler için Mülakat Süreçleri …</itunes:subtitle>
+      <description>#3 Android Geliştiriciler için Mülakat Süreçleri - Bölüm 1 by Dört Podcast</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/609855228-dortpodcast-3-mulakat-surecleri.m4a" length="92516045"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000524407218-7g5z5k-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/606207156</guid>
+      <title>#2 Android Exoplayer</title>
+      <pubDate>Mon, 15 Apr 2019 08:14:21 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/exoplayer</link>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Podcast icerisinde bahsettigimiz konulara ait linklere bu yazidan erisebilirsiniz.
+
+https://medium.com/d%C3%B6rt-podcast/2-android-exoplayer-d139498ad91a</itunes:summary>
+      <itunes:subtitle>Podcast icerisinde bahsettigimiz konulara ait lin…</itunes:subtitle>
+      <description>Podcast icerisinde bahsettigimiz konulara ait linklere bu yazidan erisebilirsiniz.
+
+https://medium.com/d%C3%B6rt-podcast/2-android-exoplayer-d139498ad91a</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/606207156-dortpodcast-exoplayer.mp3" length="33293508"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000520244676-3a4trz-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/602499795</guid>
+      <title>#1 Android Uygulama Geliştirme Sürecinde Mimari ve Kütüphaneler</title>
+      <pubDate>Sun, 07 Apr 2019 21:37:35 +0000</pubDate>
+      <link>https://soundcloud.com/dortpodcast/android-uygulama-gelistirme-surecinde-mimari-ve-kutuphaneler</link>
+      <itunes:duration>01:07:16</itunes:duration>
+      <itunes:author>Dört Podcast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Podcast kayıt sürecinde bahsettiğimiz kaynaklara bu linkten ulaşabilirsiniz.
+
+https://medium.com/d%C3%B6rt-podcast/1-android-geli%C5%9Ftirme-s%C3%BCrecinde-mimariler-ve-k%C3%BCt%C3%BCphaneler-1cd415723ed7</itunes:summary>
+      <itunes:subtitle>Podcast kayıt sürecinde bahsettiğimiz kaynaklara …</itunes:subtitle>
+      <description>Podcast kayıt sürecinde bahsettiğimiz kaynaklara bu linkten ulaşabilirsiniz.
+
+https://medium.com/d%C3%B6rt-podcast/1-android-geli%C5%9Ftirme-s%C3%BCrecinde-mimariler-ve-k%C3%BCt%C3%BCphaneler-1cd415723ed7</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/602499795-dortpodcast-android-uygulama-gelistirme-surecinde-mimari-ve-kutuphaneler.m4a" length="97654533"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000516685923-qybupv-original.jpg"/>
+    </item>
+      </channel>
+    </rss>
